@@ -1,0 +1,11 @@
+= Experiment Documentation
+
+== Configuration
+
+include::config.json[]
+
+== Results
+
+=== Results per Agent
+
+$reward_agents_table

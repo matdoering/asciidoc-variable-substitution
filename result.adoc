@@ -1,0 +1,29 @@
+= Experiment Documentation
+
+== Configuration
+
+include::config.json[]
+
+== Results
+
+=== Results per Agent
+
+|===
+|agent |policy_reward_max |policy_reward_mean |policy_reward_min
+
+|Pacman_0
+|12.0
+|11.15
+|9.0
+
+|Pacman_1
+|24.0
+|23.81
+|21.0
+
+|Pacman_2
+|23.0
+|21.75
+|12.0
+
+|===

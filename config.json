@@ -1,0 +1,8 @@
+{
+    "state": "ScreenImage",
+    "actions": ["Up", "Down", "Left", "Right"],
+    "reward": "Score",
+    "model": "Q-Learning",
+    "learning_rate": 0.1,
+    "discount_factor": 0.9
+}
